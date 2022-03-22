@@ -14,8 +14,12 @@ If you find the awesome paper/code/dataset or have some suggestions, please feel
 
 <h3> Keywords </h3>
 
-__`dat.`__: dataset &emsp; | &emsp; __`dep.`__: depth_estimation &emsp; | &emsp; __`pose.`__: pose &emsp; | &emsp; 
-__`video.`__: video &emsp; | &emsp; __`uns.`__: unsupervised &emsp; | &emsp; __`recon.`__: reconstruction &emsp; | &emsp; 
+__`dat.`__: dataset &emsp; | &emsp; __`dep.`__: depth_estimation 
+
+__`pose.`__: pose &emsp; | &emsp; __`video.`__: video 
+
+__`uns.`__: unsupervised &emsp; | &emsp; __`recon.`__: reconstruction
+
 __`oth.`__: other
 
 Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citation >= 50
