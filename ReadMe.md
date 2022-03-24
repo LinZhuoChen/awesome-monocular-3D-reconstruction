@@ -14,7 +14,7 @@ If you find the awesome paper/code/dataset or have some suggestions, please feel
 
 <h3> Keywords </h3>
 
-__`dat.`__: dataset &emsp; | &emsp; __`dep.`__: depth estimation 
+__`dep.`__: depth estimation 
 
 __`pose.`__: pose estimation &emsp; | &emsp; __`video.`__: video 
 
@@ -23,6 +23,13 @@ __`seq.`__: sequence  &emsp; | &emsp; __`uns.`__: unsupervised
 __`recon.`__: reconstruction &emsp; | &emsp; __`oth.`__: other
 
 Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citation >= 50
+
+
+
+<figure class="half">
+    <img src="./imgs/conference.png">
+    <img src="./imgs/task.png">
+</figure>
 
 
 ## 2017
