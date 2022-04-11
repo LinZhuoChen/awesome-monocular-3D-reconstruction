@@ -4,6 +4,8 @@ For anyone who wants to do research about 3D monocular reconstruction.
 
 If you find the awesome paper/code/dataset or have some suggestions, please feel free to contact linzhuochen@foxmail.com. Thanks for your valuable contribution to the research community :smiley:   
 
+**Last update: 2022-04-12**
+
 <h1> 
 
 ```diff
@@ -53,8 +55,13 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ECCV](https://openaccess.thecvf.com/content_ECCV_2018/papers/Huizhong_Zhou_DeepTAM_Deep_Tracking_ECCV_2018_paper.pdf)] DeepTAM: Deep Tracking and Mapping. [[tensorflow](https://github.com/lmb-freiburg/deeptam)] [__`dep.`__ __`seq.`__ __`video.`__ __`pose.`__] :fire: :star:
 - [[ECCV](https://arxiv.org/pdf/1809.02966.pdf)] LS-Net: Learning to Solve Nonlinear Least Squares for Monocular Stereo [__`dep.`__ __`seq.`__ __`video.`__ __`pose.`__] :fire: :star:
 - [[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhan_Unsupervised_Learning_of_CVPR_2018_paper.pdf)] Unsupervised Learning of Monocular Depth Estimation and Visual Odometry with Deep Feature Reconstruction. [[caffe](https://github.com/Huangying-Zhan/Depth-VO-Feat)] [__`dep.`__ __`pos.`__ __`seq.`__ __`video.`__ __`uns.`__] :fire: :star:
+
+- [[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/papers/Mahjourian_Unsupervised_Learning_of_CVPR_2018_paper.pdf)] Unsupervised Learning of Depth and Ego-Motion from Monocular Video
+Using 3D Geometric Constraints. [[tensorflow](https://sites.google.com/view/vid2depth)] [__`dep.`__ __`pos.`__ __`seq.`__ __`video.`__ __`uns.`__] :fire: :star:
+
 - [[ICRA](http://senwang.gitlab.io/UnDeepVO/files/UnDeepVO.pdf)] UnDeepVO: Monocular Visual Odometry through Unsupervised Deep
 Learning. [__`dep.`__ __`pos.`__ __`seq.`__ __`video.`__ __`uns.`__]
+- [[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yin_GeoNet_Unsupervised_Learning_CVPR_2018_paper.pdf)] GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose. [[tensorflow]https://github.com/yzcjtr/GeoNet)] [__`dep.`__ __`pos.`__ __`seq.`__ __`video.`__ __`uns.`__ __`oth.`__ ]
 
 
 
@@ -80,6 +87,11 @@ for Monocular Depth Estimation. [[pytorch+tensorflow](https://github.com/cleinc/
 - [[ICCV](https://arxiv.org/pdf/1806.01260.pdf)] Digging Into Self-Supervised Monocular Depth Estimation. [[pytorch](https://github.com/nianticlabs/monodepth2)] [__`dep.`__ __`seq.`__ __`video.`__ __`pose.`__ __`uns.`__] :fire: :star:
 - [[ICCV](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sheng_Unsupervised_Collaborative_Learning_of_Keyframe_Detection_and_Visual_Odometry_Towards_ICCV_2019_paper.pdf)] Unsupervised Collaborative Learning of Keyframe Detection and Visual Odometry Towards Monocular Deep SLAM. [__`dep.`__ __`seq.`__ __`video.`__ __`pose.`__ __`uns.`__]
 
+- [[ICCV](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Self-Supervised_Learning_With_Geometric_Constraints_in_Monocular_Video_Connecting_Flow_ICCV_2019_paper.pdf)] Self-supervised Learning with Geometric Constraints in Monocular Video
+Connecting Flow, Depth, and Camera. [__`dep.`__ __`seq.`__ __`video.`__ __`pose.`__ __`uns.`__ __`oth.`__]
+- [[ICCV](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ranjan_Competitive_Collaboration_Joint_Unsupervised_Learning_of_Depth_Camera_Motion_Optical_CVPR_2019_paper.pdf)] Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera
+Motion, Optical Flow and Motion Segmentation. [[pytorch](https://github.com/anuragranj/cc)][__`dep.`__ __`seq.`__ __`video.`__ __`pose.`__ __`uns.`__ __`oth.`__]
+
 
 ---
 ## 2020
@@ -99,7 +111,7 @@ for Monocular Depth Estimation. [[pytorch+tensorflow](https://github.com/cleinc/
 - [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540732.pdf)] Pyramid Multi-view Stereo Net with Self-adaptive View aggregation. [[pytorch](https://github.com/yhw-yhw/PVAMVSNet)] [__`dep.`__ __`seq.`__ __`recon.`__ ] 
 - [[ECCV](https://arxiv.org/pdf/2007.10872v1.pdf)] Dense Hybird Recurrent Multi-view Stereo Net with Dynamic Consistency Checking. [[pytorch](https://github.com/yhw-yhw/D2HC-RMVSNet)] [__`dep.`__ __`seq.`__ __`recon.`__ ] 
 - [[BMVC](https://arxiv.org/pdf/2008.07928.pdf)] Visibility-aware Multi-view Stereo Network. [[pytorch](https://github.com/jzhangbs/Vis-MVSNet)] [__`dep.`__ __`seq.`__ __`recon.`__ ] 
-- [[ICLR](https://arxiv.org/pdf/1812.04605.pdf)] DeepV2D-Video to Depth with Differentiable Structure From Motion[[tensorflow](https://github.com/princeton-vl/DeepV2D)] [__`dep.`__ __`seq.`__ __`video.`__ __`pose.`__] :fire: :star:
+- [[ICLR](https://arxiv.org/pdf/1812.04605.pdf)] DeepV2D: Video to Depth with Differentiable Structure From Motion[[tensorflow](https://github.com/princeton-vl/DeepV2D)] [__`dep.`__ __`seq.`__ __`video.`__ __`pose.`__] :fire: :star:
 
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guizilini_3D_Packing_for_Self-Supervised_Monocular_Depth_Estimation_CVPR_2020_paper.pdf)] 3D Packing for Self-Supervised Monocular Depth Estimation [[tensorflow](https://github.com/TRI-ML/packnet-sfm)] [__`dep.`__ __`seq.`__ __`video.`__ __`pose.`__ __`uns.`__] :fire: :star:
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_D3VO_Deep_Depth_Deep_Pose_and_Deep_Uncertainty_for_Monocular_CVPR_2020_paper.pdf)] D3VO: Deep Depth, Deep Pose and Deep Uncertainty for Monocular Visual Odometry [[tensorflow](https://github.com/TRI-ML/packnet-sfm)] [__`dep.`__ __`seq.`__ __`video.`__ __`pose.`__ __`uns.`__] :fire: :star:
@@ -126,6 +138,8 @@ for Monocular Depth Estimation. [[pytorch+tensorflow](https://github.com/cleinc/
 - [[3DV](https://arxiv.org/pdf/2104.15119v2.pdf)] Deep Multi-View Stereo gone wild. [[pytorch](https://github.com/fdarmon/wild_deep_mvs)] [__`dep.`__ __`seq.`__ __`recon.`__ ] 
 - [[IJCV](https://jwbian.net/Papers/SC_Depth_IJCV_21.pdf)] Unsupervised Scale-consistent Depth Learning from Video. [[pytorch](https://github.com/JiawangBian/SC-SfMLearner-Release)] [__`dep.`__ __`seq.`__ __`video.`__ __`pose.`__ __`uns.`__] :fire: :star:
 - [[NIPS](https://papers.nips.cc/paper/2021/file/89fcd07f20b6785b92134bd6c1d0fa42-Paper.pdf)] DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras. [[pytorch](https://github.com/aim-uofa/AdelaiDepth)] [__`dep.`__ __`seq.`__ __`video.`__ __`pose.`__ __`oth.`__]  :fire: :star:
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Deep_Two-View_Structure-From-Motion_Revisited_CVPR_2021_paper.pdf)] Deep Two-View Structure-from-Motion Revisited. [__`dep.`__ __`seq.`__ __`video.`__ __`pose.`__ __`oth.`__]  :fire: :star:
+
 ---
 ## 2022
 - [[CVPR](https://arxiv.org/pdf/2112.02338.pdf)] Generalized Binary Search Network for Highly-Efficient Multi-View Stereo. [[code](https://github.com/MiZhenxing/GBi-Net)]  [__`dep.`__ __`seq.`__ __`recon.`__ ] 
