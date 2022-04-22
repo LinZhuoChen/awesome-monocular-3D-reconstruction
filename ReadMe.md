@@ -140,6 +140,12 @@ Motion, Optical Flow and Motion Segmentation. [[pytorch](https://github.com/anur
 - [[NIPS](https://papers.nips.cc/paper/2021/file/89fcd07f20b6785b92134bd6c1d0fa42-Paper.pdf)] DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras. [[pytorch](https://github.com/aim-uofa/AdelaiDepth)] [__`dep.`__ __`seq.`__ __`video.`__ __`pose.`__ __`oth.`__]  :fire: :star:
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Deep_Two-View_Structure-From-Motion_Revisited_CVPR_2021_paper.pdf)] Deep Two-View Structure-from-Motion Revisited. [__`dep.`__ __`seq.`__ __`video.`__ __`pose.`__ __`oth.`__]  :fire: :star:
 
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Holistic_3D_Scene_Understanding_From_a_Single_Image_With_Implicit_CVPR_2021_paper.pdf)] Holistic 3D Scene Understanding from a Single Image with Implicit Representation [ __`recon.`__ __`oth.`__]  :fire: :star: 
+
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Engelmann_From_Points_to_Multi-Object_3D_Reconstruction_CVPR_2021_paper.pdf)]  From Points to Multi-Object 3D Reconstruction [ __`recon.`__ __`oth.`__]
+
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_LASR_Learning_Articulated_Shape_Reconstruction_From_a_Monocular_Video_CVPR_2021_paper.pdf)] LASR: Learning Articulated Shape Reconstruction from a Monocular Video [ __`recon.`__ __`video.`__] :fire: :star: 
+
 ---
 ## 2022
 - [[CVPR](https://arxiv.org/pdf/2112.02338.pdf)] Generalized Binary Search Network for Highly-Efficient Multi-View Stereo. [[code](https://github.com/MiZhenxing/GBi-Net)]  [__`dep.`__ __`seq.`__ __`recon.`__ ] 
